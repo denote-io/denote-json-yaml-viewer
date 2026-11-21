@@ -2,7 +2,7 @@
 
 View JSON and YAML as a safe, local, keyboard-accessible structured tree.
 
-This is an optional [Denote](https://github.com/mbianchidev/denote) plugin. Its
+This is an optional [Denote](https://github.com/denote-io/denote) plugin. Its
 user guide is [guide.md](guide.md); Denote shows the same guide in
 **Settings → Plugins**.
 
